@@ -5,7 +5,7 @@ from machine import Pin, PWM
 from microWebSrv import MicroWebSrv
 
 # Configuration Wi-Fi
-ssid = "DEV_ESP_IoT2"
+ssid = "ICE_OS"
 password = "123456789"
 
 # Configuration des broches GPIO
