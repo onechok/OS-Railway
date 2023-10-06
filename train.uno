@@ -6,7 +6,7 @@ from microWebSrv import MicroWebSrv
 
 # Configuration Wi-Fi
 ssid = "DEV_ESP_IoT2"
-password = "12345678"
+password = "123456789"
 
 # Configuration des broches GPIO
 LED_BL2 = Pin(15, Pin.OUT)  # Red light on side 2 GPIO15
